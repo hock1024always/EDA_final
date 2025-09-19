@@ -1,0 +1,3 @@
+/home/kksk996/bookshelf_parser/build/CMakeFiles/bookshelf_parser.dir
+/home/kksk996/bookshelf_parser/build/CMakeFiles/edit_cache.dir
+/home/kksk996/bookshelf_parser/build/CMakeFiles/rebuild_cache.dir
